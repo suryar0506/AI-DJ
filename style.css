@@ -1,0 +1,12 @@
+body{
+    background-size: cover;
+}
+
+.heading{
+    font-size: 23px !important;
+    color: white;
+}
+
+h3{
+    margin-top:-10px;
+}
